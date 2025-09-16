@@ -1,0 +1,11 @@
+transaction_id,date,amount,currency,description
+1,2024-06-01,150.75,USD,Payment for invoice #123
+2,2024-06-02,89.50,USD,Office supplies
+3,2024-06-03,200.00,USD,Client refund
+4,2024-06-04,45.00,USD,Subscription fee
+5,2024-06-05,320.10,USD,Software purchase
+6,2024-06-06,75.25,USD,Travel expense
+7,2024-06-07,60.00,USD,Team lunch
+8,2024-06-08,500.00,USD,Consulting services
+9,2024-06-09,120.00,USD,Hardware upgrade
+10,2024-06-10,30.00,USD,Parking fee
